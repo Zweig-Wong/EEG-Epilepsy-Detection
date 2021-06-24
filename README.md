@@ -12,7 +12,7 @@ To reach this goal, we firstly explore and visualize the data, hoping to find so
 
 - DATA: Two files are included in the folder "data": "Epileptic Seizure Recognition.csv" which is the source data collected from [Epileptic Seizure Recognition | Kaggle](https://www.kaggle.com/harunshimanto/epileptic-seizure-recognition), and "feature.csv" which is the output of the second code file (**"EEG-2 Feature extraction.ipynb"**).
 - OUTPUT: Images are all stored in this folder.
-- CLASSIFICATION: Two folders are included: "DT" and "SVM", and each folder also has two folders which are for models based on different features. The training sets and the testing sets are stored in this folders, and the classifiers (".m") are also included. To use the classifiers, please use Joblib ([Joblib: running Python functions as pipeline jobs — joblib 1.1.0.dev0 documentation](https://joblib.readthedocs.io/en/latest/)) to load them.
+- CLASSIFICATION: Two folders are included: "DT" and "SVM", and each folder also has two folders which are for models based on different features. The training sets and the testing sets are stored in this folder, and the classifiers (".m") are also included. To use the classifiers, please use Joblib ([Joblib: running Python functions as pipeline jobs — joblib 1.1.0.dev0 documentation](https://joblib.readthedocs.io/en/latest/)) to load them.
 - EXPLORE: This folder includes the drafts written in the initial stage of the project. Probably most of the codes in it are not executable. I put them here just for the record. (Oh...just 20 days before I finally finished this project I almost knew nothing about what to do...quq)
 
 ## Contributors
