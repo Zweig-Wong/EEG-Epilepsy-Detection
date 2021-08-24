@@ -17,7 +17,7 @@ To reach this goal, we firstly explore and visualize the data, hoping to find so
 
 ## Contributors
 
-Three members in our teams are all students in Zhongshan School of Medicine, SYSU.
+All of the three members in our teams are students in Zhongshan School of Medicine, SYSU.
 
 To contact us, you can email us at huangzw29@mail2.sysu.edu.cn  
 
